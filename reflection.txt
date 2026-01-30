@@ -1,0 +1,9 @@
+Based on this lab, why is using branches a powerful and safe way for a team of
+software engineers to collaborate on a single project? What problems might it
+prevent?
+Branches prevent everything from being in one place, which can be problematic if 
+someone makes a big mistake and all of a sudden everything gets affected. It also
+allows multiple files to be edited at the same time which increases productivity.
+Git also has a feature where you can go back and undo the push that you just did,
+so if someone pushed something and it’s not good or it causes problems, someone can
+just undo the push.
